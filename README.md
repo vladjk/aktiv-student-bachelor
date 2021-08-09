@@ -33,3 +33,12 @@ completed.
 The group concludes that a working solution has been developed. It remains
 nevertheless some work in relation to user testing, privacy, data security and
 marketing before Active Student is ready for launch
+
+![87811d13eae9d6b6b946bd80dd2a425e](https://user-images.githubusercontent.com/33227105/128694740-ac2a56c8-60e7-496b-8753-a8e4dc150361.png)
+![2](https://user-images.githubusercontent.com/33227105/128694972-95aac26f-8a27-4cfd-9933-2d619ed4f92b.png)
+![3](https://user-images.githubusercontent.com/33227105/128694978-5f46e02e-13e8-4f54-803c-5d7d3a1e46ad.png)
+![4](https://user-images.githubusercontent.com/33227105/128694984-c3e5cc2d-eadf-4f1b-acf0-37a929e2bf1d.png)
+![5](https://user-images.githubusercontent.com/33227105/128694990-4899bcd3-e6ac-4d99-90ad-82611d3098ef.png)
+![6](https://user-images.githubusercontent.com/33227105/128694996-32dcd9cf-b975-41a4-ba14-084cdf475bf0.png)
+![7](https://user-images.githubusercontent.com/33227105/128694999-6e43486a-9f2a-4af7-976b-3bd84feba81c.png)
+![8](https://user-images.githubusercontent.com/33227105/128695008-21c7681b-7494-461b-831a-dafa8b85d114.png)
